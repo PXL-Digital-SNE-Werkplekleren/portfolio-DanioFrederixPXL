@@ -2,13 +2,16 @@
 
 ## Overzicht ontwikkelingsgesprekken WPL 1
 ### Mijn keuze voor de opleiding
-Noteer hier in max. 5 zinnen waarom je voor de opleiding “Systemen en Netwerken” gekozen hebt.
-Welk deel uit de opleiding interesseert jou het meest? Wat denk je te gaan doen later, in welk soort
-organisatie? (voor zover je daar al een beeld van hebt) Waarom denk je dat dit beroep bij jou past?
+Ik koos voor de opleiding "Systemen en Netwerken" vanwege mijn diepgaande interesse in technologie.
+Het beheer van complexe systemen en netwerken spreekt me aan.
+Deze opleiding voorziet mij van de benodigde kennis en vaardigheden om een betekenisvolle impact te hebben op de hedendaagse jobmarkt
+Vroeger vond ik hacken heel fijn en ben ik op het web gegaan om zoveel mogelijk info te vinden hierover, toen ik moest verderstuderen koos ik eerst voor
+toegepaste informatica. Het programeer gedeelte vond ik niks voor mij en daarom besloot ik deze richting te doen.
+
 
 ### Mijn beeld van dit beroep
-Beschrijf in min. 5 à 10 zinnen hoe jij de invulling van dit beroep ziet. Welk beeld heb je gekregen na
-het volgen van WPL1 (bv. door je analyse van vacatures, gastseminaries, opdrachten enz).
+Na het volgen van WPL1 heb ik een duidelijk beeld gevormd van dit beroep. Mijn perceptie is verrijkt door analyses van vacatures, deelname aan gastseminaries en de uitvoering van verschillende opdrachten. Ik zie het beroep als een dynamisch veld waarin het beheer van complexe systemen en netwerken centraal staat. Het vereist een diepgaande kennis van informatietechnologie.
+De diversiteit aan taken binnen het beroep, zoals het optimaliseren van netwerkinfrastructuur, het waarborgen van beveiliging en het implementeren van nieuwe technologieën, wekken mijn enthousiasme op.
 
 ### Competenties systemen en netwerken
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in
