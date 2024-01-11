@@ -106,31 +106,29 @@ Gedurende de hele opleiding zal er gewerkt worden om deze competenties te verwer
 flankerende opleidingsonderdelen zowel als tijdens Werkplekleren.
 
 ### Mijn evolutie tijdens WPL1
-Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct Nederlandse zinnen
-maken. Voorbeelden vind je in het voorbeeld-portfolio.
+
 
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
-* ...
-* ...
-* ...
+* Toen ik de toets van talstelsels had gemaakt dacht ik dat ik alles kon omdat ik dit vorig jaar had gezien, hierdoor had ik me niet voorbereid en was ik niet geslaagd
+* In groepswerk niet alles zelf doen en andere mensen ook laten werken, sommige mensen in de groep deden vrij weining en waren stil tijdens de opracht en vonden alles goed wat ik deed.
+* Veel eerder beginnen aan de portfolio aangezien dit veel werk is. Dit telt voor alle taken en opdrachten die ik krijg.
 
 
 Dit zijn mijn **sterke punten** die ik deze semester heb geïdentificeerd (technische en soft skills).
 Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.
 Technische skills:
-* ...
-* ...
+* Netwerken: Ik begin dit heel goed te snappen. zeker hoe packetrracer werkt en in de praktijk, In de PE van netacad heb ik goed gescoord.
+* structureren: Het lukt me goed om alles te structureren waardoor ik de leerstof beter kan leren en snappen voor de examens.
 
 
 Soft skills:
-* ...
-* ...
-
+* Communicatieve vaardigheden: Ik kon goed alles uitleggen aan andere mensen toen we in groep moesten samenwerken voor een opdracht
+* Probleemoplossend vermogen: Bij de powerapp heb ik alternatieve manieren geprobeerd voor een bepaalde taak.
 
 Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<br />
 (ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
-* ...
-* ...
+* Ik wil graag bepaalde certificaten behalen die belangrijk zijn voor mijn vakgebied. Hiermee wil ik laten zien dat ik echt goed ben in wat ik doe en dat ik bepaalde vaardigheden heb. Het behalen van deze certificaten zal mijn geloofwaardigheid als professional vergroten en laten zien dat ik over de juiste kennis en vaardigheden beschik. Het is een manier om mijn prestaties te bevestigen en mezelf te laten zien als iemand die serieus is over zijn vak.
+* Het plannen van opdrachten maken en tijd maken om te studeren. Door dit niet te doen stel ik vaak uit waardoor ik het altijd de dag ervoor moet maken. hierdoor is de taak te snel gemaakt en zitten er fouten in.
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
