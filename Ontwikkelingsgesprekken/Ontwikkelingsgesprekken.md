@@ -2,7 +2,7 @@
 
 ## Overzicht ontwikkelingsgesprekken WPL 1
 ### Mijn keuze voor de opleiding
-Ik koos voor de opleiding "Systemen en Netwerken" vanwege mijn diepgaande interesse in technologie.
+Ik koos voor de opleiding  Systeem- en Netwerkbeheer vanwege mijn diepgaande interesse in netwerken en security.
 Het beheer van complexe systemen en netwerken spreekt me aan.
 Deze opleiding voorziet mij van de benodigde kennis en vaardigheden om een betekenisvolle impact te hebben op de hedendaagse jobmarkt
 Vroeger vond ik hacken heel fijn en ben ik op het web gegaan om zoveel mogelijk info te vinden hierover, toen ik moest verderstuderen koos ik eerst voor
