@@ -12,7 +12,7 @@ Hier is een overzicht van mijn reflecties
 3. Kernkwadranten:
 
    Kernkwaliteit - Competitief
-   - Ik ben vab nature heel Competitief. Ik wil vaak winnen of het beste scoren.
+   - Ik ben van nature heel Competitief. Ik wil vaak winnen of het beste scoren.
 
    Valkuil - Meedogenloos
    - Soms voel ik geen empathie met andere tijdens een wedstrijd of opdracht omdat ik het beste wil scoren en niet wil luisteren naar anderen en ze zillen helpem
