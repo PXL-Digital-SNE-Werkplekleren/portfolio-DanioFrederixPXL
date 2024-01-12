@@ -48,7 +48,7 @@ Hier is een overzicht van mijn reflecties
      Omdat er geen ruimte was voor extra personeel vanwege beperkt budget, koos Nathan voor een andere aanpak. Hij bracht het idee van lean thinking, wat betekende dat hij verbeteringen aanbracht in de administratie, effectievere communicatie met klanten 
      implementeerde, en de taken duidelijker verdeelde.Dankzij dit idee van Nathan steeg de beoordeling van de helpdesk naar 9/10
 
-     Ik zou deze job niet willen doen omdat ik meer geintresserd ben in netwerken en security.
+     Ik zou deze job niet willen doen omdat ik meer geïnteresseerd ben in netwerken en security.
      
 
 
