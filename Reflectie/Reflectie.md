@@ -6,6 +6,7 @@ Hier is een overzicht van mijn reflecties
 1. Talenten:
    
     het weten van mijn sterke punten en vaardigheden.
+   
     Weten hoe ik deze punten kan inzetten bij opdrachten of later in mijn job.
 
 3. Kernkwadranten:
