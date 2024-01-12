@@ -4,10 +4,11 @@
 Hier is een overzicht van mijn reflecties
 
 1. Talenten:
+   
     het weten van mijn sterke punten en vaardigheden.
     Weten hoe ik deze punten kan inzetten bij opdrachten of later in mijn job.
 
-2. Kernkwadranten:
+3. Kernkwadranten:
 
    Kernkwaliteit - Competitief
    - Ik ben vab nature heel Competitief. Ik wil vaak winnen of het beste scoren.
@@ -22,7 +23,7 @@ Hier is een overzicht van mijn reflecties
    - Ik kijk niet snel naar de toekomst en leef in het moment. dit heeft enkele nadelen omdat je niet doordenkt.
 
 
-3. Gastseminaries
+4. Gastseminaries
    - Niels Aerts - Xpose
 
     Niels Aerts is een enthousiaste ondernemer.
