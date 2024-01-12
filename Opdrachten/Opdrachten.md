@@ -42,6 +42,7 @@
 
 Mijn favoriete opdrachten
 
+
    De opdrachten over het Carriècompas en de planning waren absoluut hoogtepunten voor mij. Niet alleen behaalde ik uitstekende resultaten, maar ik genoot ook echt van de uitdagende en boeiende taken. Het Carriècompas hielp me inzicht te krijgen in mijn 
    loopbaanoriëntatie, en de planningstaak zorgde ervoor dat ik mijn taken beter kon organiseren.
  ![POP1.png](../images/POP1.png)
