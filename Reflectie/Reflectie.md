@@ -54,10 +54,10 @@ Hier is een overzicht van mijn reflecties
 
 3. X-factor
    
-Ik vind dat alle factoren op een bepaalde manier zijn voorgekomen tijdens werkplekleren. Vooral empassion, alle leekrachten van WPL geven les met passie en helpen de studenten goed als ze vragen hebben.
+Ik vind dat alle factoren op een bepaalde manier zijn voorgekomen tijdens werkplekleren. Vooral empassion, alle leekrachten van WPL geven les met passie en helpen de studenten goed wanneer ze vragen hadden.
 
 
-Wat ik vooral heb geleerd van werkplekleren is het juist plannen van opdrachten en dagelijkse activiteiten en tijd maken voor school.Ik heb ook geleerd mijn sterke punten in te zetten bij de opdrachten en communicatie naar andere studenten toe of laten collega's.
+Wat ik vooral heb geleerd van werkplekleren is het juist plannen van opdrachten en dagelijkse activiteiten en tijd maken voor school. Ik heb ook geleerd mijn sterke punten in te zetten bij de opdrachten. Ook leerde ik om te communiceren met andere studenten en toekomstige collega's.
 
 
 Slotevaluatie
