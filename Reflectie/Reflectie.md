@@ -60,6 +60,27 @@ NOG AFWERKEN
 Wat ik vooral heb geleerd van werkplekleren is het juist plannen van opdrachten en dagelijkse activiteiten en tijd maken voor school.Ik heb ook geleerd mijn sterke punten in te zetten bij de opdrachten en communicatie naar andere studenten toe of laten collega's.
 
 
+Slotevaluatie
+
+-Wat weet je al over de soort van job die je later wil uitoefenen?
+
+Ik wil liefst dat het te maken heeft met netwerken bouwen en onderhouden en de security ervan verbeteren. Erna wil ik een zelfstandige worden met eigen bedrijf over netwerken en security.
+
+-Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
+
+Iemand die al jarenlang zen eigen zaak heeft en heel succesvol is en hoe hij precies begonnen is met zijn carrière.dit kan mij een idee geven hoelang alles duurd en hoe je moet werken voor je droom.
+
+-Welk inzicht heeft WPL1 jou gebracht?
+
+Dat ik graag opdrachten maak ik groep omdat je dan verschillende meningen hebt en dit samen kunt bespreken. Dat sommige mensen meer werken en andere minder als normaal.
+
+Dat het belangrijk is om zelfstandig te leren werken.
+
+-Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
+
+Hoe je precies moet omgaan met mensen op het werk en hoe je proffesioneel moet overkomen.
+
+
 
 ## Reflectie WPL 2
 
