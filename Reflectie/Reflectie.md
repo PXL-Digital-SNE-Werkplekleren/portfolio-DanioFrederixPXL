@@ -15,10 +15,10 @@ Hier is een overzicht van mijn reflecties
    - Ik ben van nature heel Competitief. Ik wil vaak winnen of het beste scoren.
 
    Valkuil - Meedogenloos
-   - Soms voel ik geen empathie met andere tijdens een wedstrijd of opdracht omdat ik het beste wil scoren en niet wil luisteren naar anderen en ze zillen helpem
+   - Soms voel ik geen empathie met andere tijdens een wedstrijd of opdracht omdat ik het beste wil scoren en niet wil luisteren naar anderen en ze zillen helpen.
 
    Uitdaging - Cooperatief
-   - Meer samen met andere werken tijdens opdrachten of wedstrijden zodat we allemaal het beste eruit halen
+   - Meer samen met andere werken tijdens opdrachten of wedstrijden zodat we allemaal het beste eruit halen.
 
    Allergie - Kortzichtig
    - Ik kijk niet snel naar de toekomst en leef in het moment. dit heeft enkele nadelen omdat je niet doordenkt.
