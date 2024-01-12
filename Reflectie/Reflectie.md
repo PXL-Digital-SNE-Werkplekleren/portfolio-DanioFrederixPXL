@@ -5,7 +5,7 @@ Hier is een overzicht van mijn reflecties
 
 1. Talenten:
    
-    het weten van mijn sterke punten en vaardigheden.
+    Het weten van mijn sterke punten en vaardigheden.
    
     Weten hoe ik deze punten kan inzetten bij opdrachten of later in mijn job.
 
@@ -28,7 +28,7 @@ Hier is een overzicht van mijn reflecties
    - Niels Aerts - Xpose
 
      Niels Aerts is een enthousiaste ondernemer.
-     Hij is van hotelschool naar onze opleiding gegaan omdat hij dit veel intressanter vond.Hij gebruikte verschillende tools, zoals Hack The Box. Na zijn studie startte hij zijn eigen bedrijf, XPOSE Cybersecurity. Hier houdt hij zich bezig met ethisch hacken om 
+     Hij is van hotelschool naar onze opleiding gegaan omdat hij dit veel intressanter vond. Hij gebruikte verschillende tools, zoals Hack The Box. Na zijn studie startte hij zijn eigen bedrijf, XPOSE Cybersecurity. Hier houdt hij zich bezig met ethisch hacken om 
      bedrijven te beschermen tegen kwaadaardige hackers.
 
      Hij kwam over als een spontane jongen die wist waarover hij sprak. Hij was wel pas begonnen met zijn zaak/ondermening als zelfstandige, maar het kwam over alsof hij dit al jaren deed en zeer succesvol was.
@@ -54,7 +54,7 @@ Hier is een overzicht van mijn reflecties
 
 3. X-factor
    
-NOG AFWERKEN
+Ik vind dat alle factoren op een bepaalde manier zijn voorgekomen tijdens werkplekleren. Vooral empassion, alle leekrachten van WPL geven les met passie en helpen de studenten goed als ze vragen hebben.
 
 
 Wat ik vooral heb geleerd van werkplekleren is het juist plannen van opdrachten en dagelijkse activiteiten en tijd maken voor school.Ik heb ook geleerd mijn sterke punten in te zetten bij de opdrachten en communicatie naar andere studenten toe of laten collega's.
