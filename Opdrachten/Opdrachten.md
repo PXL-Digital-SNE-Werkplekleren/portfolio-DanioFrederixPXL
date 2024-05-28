@@ -62,6 +62,8 @@ Voor onze groepsopdracht moesten we een fictieve schoolomgeving/infrastructuur m
 
 ![WPL.png](../images/WPL.png)
 
+[Hier voor een uitleg](https://drive.google.com/file/d/1AC9etQ_hjmNZ0uhiIXZUdTW7nwu1uxrX/view?usp=drive_link)
+
 BIJLAGE
 ![WPL2PresentatieTeam20.pdf](../images/WPL2PresentatieTeam20.pdf)
 
