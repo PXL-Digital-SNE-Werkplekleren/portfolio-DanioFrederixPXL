@@ -67,7 +67,7 @@ Mijn favoriete taak waarop ik fier ben is toch wel de group policies. Hierdoor k
 [Hier voor een uitleg](https://drive.google.com/file/d/1AC9etQ_hjmNZ0uhiIXZUdTW7nwu1uxrX/view?usp=drive_link)
 
 BIJLAGE
-[WPL2PresentatieTeam20.pdf](WPL2PresentatieTeam20.pdf)
+[WPL2PresentatieTeam20.pdf](../assets/WPL2PresentatieTeam20.pdf)
 
 ## Opdrachten WPL 3
 
