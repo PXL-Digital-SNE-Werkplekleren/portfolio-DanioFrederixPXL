@@ -62,6 +62,7 @@ Voor onze groepsopdracht moesten we een fictieve schoolomgeving/infrastructuur m
 
 ![WPL.png](../images/WPL.png)
 
+Mijn favoriete taak waarop ik fier ben is toch wel de group policies. Hierdoor kreeg ik een flashback naar de middelbareschool hoe men achtergrond van de school pas en bepaalde rechten niet had om dingen aan te passen en iedereen zijn eigen map had. Door deze opdracht te maken besef ik hoe dit allemaal werkt en dit vrij tof is om te doen 
 [Hier voor een uitleg](https://drive.google.com/file/d/1AC9etQ_hjmNZ0uhiIXZUdTW7nwu1uxrX/view?usp=drive_link)
 
 BIJLAGE
