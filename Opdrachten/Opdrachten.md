@@ -62,6 +62,7 @@ Voor onze groepsopdracht moesten we een fictieve schoolomgeving/infrastructuur m
 
 ![WPL.png](../images/WPL.png)
 
+BIJLAGE
 
 
 ## Opdrachten WPL 3
