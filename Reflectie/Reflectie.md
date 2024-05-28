@@ -84,6 +84,9 @@ Hoe je precies moet omgaan met mensen op het werk en hoe je proffesioneel moet o
 
 ## Reflectie WPL 2
 
+Door actief deel te nemen aan teamwerk en regelmatig te overleggen over onze voortgang, heb ik tijdens deze opdracht mijn samenwerkings- en communicatievaardigheden versterkt. Door netwerkontwerp en -beheer heb ik ontdekt dat een stabiele en snelle basisinfrastructuur essentieel is voor het goed functioneren van de IT-omgeving. Ik heb belangrijke lessen geleerd over het maken van consistente, veilige werkomgevingen en het bieden van verschillende IT-omgevingen aan studenten tijdens het installeren van Windows- en Linux-systemen.
+Mijn kennis van IT-beheer en dataveiligheid is verbeterd door strenge beveiligingsmaatregelen te implementeren en verschillende services te installeren, zoals LMS'en en helpdesksystemen. Tijdens het opzetten van backup- en monitoringsystemen heb ik geleerd hoe belangrijk het is om problemen snel op te lossen. 
+
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
