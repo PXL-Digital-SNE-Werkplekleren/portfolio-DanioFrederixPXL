@@ -58,7 +58,7 @@ Voor de individuele installatie moeten we een Linux-computer op AWS installeren.
 
 Groepswerk
 
-Voor onze groepsopdracht moesten we een fictieve schoolomgeving?infrastructuur maken. We gebruikten hiervoor vSphere. In deze omgeving zitten verschillende machines zoals windows server,linux clients en pfsense firewall. In de sprints hebben we deze machines moeten configueren en klaarmaken voor schoolgebruik. Voor deze opdrachten te maken moesten heel veel zelfstandig en opzoek werk doen. Als je vast zat konnen je teamgenoten altijd helpen of kon je terecht bij een leerkracht. De resultaten van onze sprints waren redelijk goed tot nu toe.
+Voor onze groepsopdracht moesten we een fictieve schoolomgeving/infrastructuur maken. We gebruikten hiervoor vSphere. In deze omgeving zitten verschillende machines zoals windows server,linux clients en pfsense firewall. In de sprints hebben we deze machines moeten configueren en klaarmaken voor schoolgebruik. Voor deze opdrachten te maken moesten heel veel zelfstandig en opzoek werk doen. Als je vast zat kon je bij teamgenoten of leerkachten terecht. De resultaten van onze sprints waren redelijk goed tot nu toe.
 
 ![WPL.png](../images/WPL.png)
 
