@@ -53,7 +53,7 @@ Mijn favoriete opdrachten
 Individuele opdracht
 
 Voor de individuele installatie moeten we een Linux-computer op AWS installeren. De volgende stap was het configureren van dit Linux-systeem om een ​​webserver te draaien. Om een ​​website te maken met behulp van een CSS-sjabloon, moeten we nadenken over een hypothetische school. Vanaf dat moment moeten we deze website hosten op de webserver van onze Linux-machine. Deze individuele beoordeling vond plaats tijdens Sprint 1.
-![POP1.png](../images/punten.png)
+![Punten.png](../images/Punten.png)
 
 
 
