@@ -9,7 +9,7 @@ Hiervoor hebben we opdrachten gedaan om het werkveld te verkenning, stilgestaan 
 
 ## Logboek WPL 2
 zie Opdrachten en Relfectie
-![Plan.png](../images/planningg.png.png)
+![Plan.png](../images/planningg.png)
 ## Logboek WPL 3
 
 ## Logboek WPL4
