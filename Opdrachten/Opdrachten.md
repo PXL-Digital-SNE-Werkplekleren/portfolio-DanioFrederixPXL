@@ -79,7 +79,7 @@ Ik vertelde onder andere over IT-support, cloudoplossingen, netwerkbeheer en kla
 <center>
   <object data="./WPL3_Intervisie_Pitch_Frederix_Danio.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./WPL3_Intervisie_Pitch_Frederix_Danio.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3_Intervisie_Pitch_Frederix_Danio.pdf">Download PDF</a>.</p>
+      <p>Bijlage: <a href="./WPL3_Intervisie_Pitch_Frederix_Danio.pdf">Download PDF</a>.</p>
     </embed>
   </object>
 </center>
