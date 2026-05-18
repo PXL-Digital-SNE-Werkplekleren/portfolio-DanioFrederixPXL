@@ -134,10 +134,13 @@ Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<b
 ## Overzicht ontwikkelingsgesprekken WPL 2
 Zie opdrachten en reflectie
 ## Overzicht ontwikkelingsgesprekken WPL 3
-Tijdens mijn stage heb ik regelmatig ontwikkelingsgesprekken gehad met mijn stagebegeleider. Tijdens deze gesprekken werden mijn technische vaardigheden, werkhouding en samenwerking binnen het team besproken.
+Tijdens mijn stage heb ik regelmatig ontwikkelingsgesprekken gehad met mijn stagebegeleider. Tijdens deze gesprekken werden mijn technische vaardigheden, werkhouding, communicatie en samenwerking binnen het team besproken. Er werd gekeken naar mijn evolutie tijdens de stage en naar de punten waarin ik mezelf nog verder kon verbeteren.
 
-Ik kreeg positieve feedback over mijn inzet, leergierigheid en communicatie met klanten en collega’s. Daarnaast werd aangegeven dat ik nog meer zelfstandig initiatief mocht nemen en vaker eerst zelf oplossingen moest proberen uitwerken voordat ik hulp vroeg. Hierdoor heb ik geleerd om zelfstandiger te werken en problemen grondiger te analyseren.
+Ik kreeg positieve feedback over mijn inzet, motivatie en leergierigheid. Mijn stagebegeleider gaf aan dat ik snel nieuwe dingen oppik en dat ik gemotiveerd ben om technische problemen op te lossen. Ook mijn communicatie met klanten en collega’s werd positief beoordeeld. Tijdens de stage heb ik veel klanten geholpen met problemen rond Windows-updates, printers, telefonie, OneDrive, Outlook en andere IT-gerelateerde problemen. Hierdoor ben ik sterker geworden in klantgericht communiceren en professioneel omgaan met gebruikers.
 
-De feedback uit deze gesprekken heeft mij geholpen om verder te groeien binnen een professionele IT-omgeving en meer vertrouwen te krijgen in mijn eigen technische vaardigheden.
+Daarnaast werd tijdens de gesprekken aangegeven dat ik nog meer zelfstandig initiatief mocht nemen. Ik moest vaker eerst zelf oplossingen proberen zoeken en problemen grondiger analyseren voordat ik hulp vroeg aan collega’s. In het begin vond ik dit soms moeilijk omdat veel systemen en technologieën nog nieuw voor mij waren, maar doorheen de stage ben ik hier sterk in gegroeid. Ik heb geleerd om beter gebruik te maken van documentatie, online informatie en eerdere ervaringen om zelfstandig tot oplossingen te komen.
 
+Ook planning en structuur kwamen regelmatig aan bod. Ik heb geleerd om mijn taken beter te organiseren, documenten correct bij te houden en efficiënter te werken aan grotere projecten zoals Windows 11-migraties, inventarissen en security-audits. Hierdoor kon ik mijn werk beter opvolgen en overzicht bewaren.
+
+De ontwikkelingsgesprekken hebben mij geholpen om kritisch naar mezelf te kijken en actief te werken aan mijn verbeterpunten. Door de feedback van mijn stagebegeleider ben ik zelfstandiger, zelfzekerder en professioneler geworden binnen een echte IT-werkomgeving.
 ## Overzicht ontwikkelingsgesprekken WPL 4
