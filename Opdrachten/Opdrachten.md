@@ -77,12 +77,14 @@ Ik stelde het bedrijf, mijn takenpakket en de uitdagingen tijdens mijn stage voo
 Ik vertelde onder andere over IT-support, cloudoplossingen, netwerkbeheer en klantencontact
 
 <center>
-  <object data="./WPL3_Intervisie_Pitch_Frederix_Danio.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./WPL3_Intervisie_Pitch_Frederix_Danio.pdf">
-      <p>Bijlage: <a href="./WPL3_Intervisie_Pitch_Frederix_Danio.pdf">Download PDF</a>.</p>
-    </embed>
-  </object>
+  <iframe 
+    src="WPL3_Intervisie_Pitch_Frederix_Danio.pdf" 
+    width="700" 
+    height="700">
+  </iframe>
 </center>
+
+[Download PDF](WPL3_Intervisie_Pitch_Frederix_Danio.pdf)
 
 ## Probleemsituatie
 Voor deze opdracht beschreef ik twee problemen die ik tijdens mijn stage heb meegemaakt. 
