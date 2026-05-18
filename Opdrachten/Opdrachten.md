@@ -71,4 +71,27 @@ BIJLAGE
 [WPL2PEindrapportTeam20](https://drive.google.com/file/d/10pb9a9lIoT8nsKtiAtu_FGGto68gqK2y/view?usp=drive_link)
 ## Opdrachten WPL 3
 
+## Pitch werkplek
+Voor deze opdracht moest ik een pitch maken over mijn stageplaats CoreSolutions. 
+Ik stelde het bedrijf, mijn takenpakket en de uitdagingen tijdens mijn stage voor. 
+Ik vertelde onder andere over IT-support, cloudoplossingen, netwerkbeheer en klantencontact
+
+## Probleemsituatie
+Voor deze opdracht beschreef ik twee problemen die ik tijdens mijn stage heb meegemaakt. 
+Het eerste probleem ging over technische kennis en werken met onbekende systemen. 
+Het tweede probleem ging over communicatie met klanten tijdens stressvolle situaties.
+
+## Probleem met advies
+Na de intervisie werkte ik mijn probleemsituatie verder uit met feedback, leerpunten en een actieplan. 
+Ik leerde dat ik meer structuur moet brengen in mijn werk, sneller hulp moet vragen wanneer nodig en professioneler moet communiceren met klanten.
+
+Daarnaast maakte ik concrete acties om hier verder aan te werken tijdens mijn stage.
+
+## Werkkwaliteiten
+In deze opdracht werkte ik mijn kernkwaliteiten, uitdagingen en leerdoelen uit. 
+Mijn sterke punten zijn onder andere doorzettingsvermogen, leergierigheid en zelfstandig werken. 
+Daarnaast stelde ik leerdoelen op rond communicatie, cybersecurity en planning. :contentReference[oaicite:3]{index=3}
+
+Ik beschreef ook welke oplossingen ik al geprobeerd had en hoe ik hiermee ben omgegaan.
+
 ## Opdrachten WPL 4
