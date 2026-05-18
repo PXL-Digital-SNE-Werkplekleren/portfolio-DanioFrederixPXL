@@ -76,7 +76,7 @@ Voor deze opdracht moest ik een pitch maken over mijn stageplaats CoreSolutions.
 Ik stelde het bedrijf, mijn takenpakket en de uitdagingen tijdens mijn stage voor. 
 Ik vertelde onder andere over IT-support, cloudoplossingen, netwerkbeheer en klantencontact
 
-[📄 Bekijk Pitch Werkplek PDF]([HIER_JE_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1m-2FhUgf5N0aU84zyrud-_95fl2OSJvr/view?usp=sharing))
+[Bekijk Pitch Werkplek PDF](https://drive.google.com/file/d/1m-2FhUgf5N0aU84zyrud-_95fl2OSJvr/view?usp=sharing)
 
 ## Probleemsituatie
 Voor deze opdracht beschreef ik twee problemen die ik tijdens mijn stage heb meegemaakt. 
