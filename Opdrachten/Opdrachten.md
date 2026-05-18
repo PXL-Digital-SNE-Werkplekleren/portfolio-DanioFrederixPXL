@@ -89,17 +89,42 @@ Voor deze opdracht beschreef ik twee problemen die ik tijdens mijn stage heb mee
 Het eerste probleem ging over technische kennis en werken met onbekende systemen. 
 Het tweede probleem ging over communicatie met klanten tijdens stressvolle situaties.
 
+<center>
+  <object data="./probleemsituatie.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="./probleemsituatie.pdf">
+      <p>Bijlage: <a href="./probleemsituatie.pdf">Download PDF</a>.</p>
+    </embed>
+  </object>
+</center>
+
 ## Probleem met advies
 Na de intervisie werkte ik mijn probleemsituatie verder uit met feedback, leerpunten en een actieplan. 
 Ik leerde dat ik meer structuur moet brengen in mijn werk, sneller hulp moet vragen wanneer nodig en professioneler moet communiceren met klanten.
 
 Daarnaast maakte ik concrete acties om hier verder aan te werken tijdens mijn stage.
 
+<center>
+  <object data="./naverwerking.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="./naverwerking.pdf">
+      <p>Bijlage: <a href="./naverwerking.pdf">Download PDF</a>.</p>
+    </embed>
+  </object>
+</center>
+
 ## Werkkwaliteiten
 In deze opdracht werkte ik mijn kernkwaliteiten, uitdagingen en leerdoelen uit. 
 Mijn sterke punten zijn onder andere doorzettingsvermogen, leergierigheid en zelfstandig werken. 
-Daarnaast stelde ik leerdoelen op rond communicatie, cybersecurity en planning. :contentReference[oaicite:3]{index=3}
+Daarnaast stelde ik leerdoelen op rond communicatie, cybersecurity en planning.
 
 Ik beschreef ook welke oplossingen ik al geprobeerd had en hoe ik hiermee ben omgegaan.
+
+<center>
+  <object data="./werkkwaliteiten.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="./werkkwaliteiten.pdf">
+      <p>Bijlage: <a href="./werkkwaliteiten.pdf">Download PDF</a>.</p>
+    </embed>
+  </object>
+</center>
+
 
 ## Opdrachten WPL 4
