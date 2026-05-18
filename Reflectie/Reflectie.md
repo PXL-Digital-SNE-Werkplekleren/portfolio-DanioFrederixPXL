@@ -89,4 +89,12 @@ Mijn kennis van IT-beheer en dataveiligheid is verbeterd door strenge beveiligin
 
 ## Reflectie WPL 3
 
+Tijdens WPL 3 heb ik veel ervaring opgedaan binnen een professionele IT-omgeving. Ik heb gewerkt aan uiteenlopende taken zoals het uitvoeren van Windows 11-upgrades, het oplossen van technische problemen, het configureren van systemen en het ondersteunen van klanten. Hierdoor heb ik mijn technische kennis en probleemoplossend vermogen sterk kunnen verbeteren.
+
+Tijdens de stage heb ik geleerd om beter zelfstandig te werken en zelf eerst naar oplossingen te zoeken voordat ik hulp vraag. In het begin had ik soms nog extra begeleiding nodig, maar naarmate de stage vorderde kon ik steeds meer opdrachten zelfstandig uitvoeren. Ook heb ik geleerd om duidelijker te communiceren met klanten en collega’s en professioneler om te gaan met planning en opvolging van taken.
+
+Daarnaast heb ik meer inzicht gekregen in het belang van security, updates en het correct beheren van systemen binnen bedrijven. Ik vond het interessant om mee te werken aan projecten rond beveiliging, netwerkbeheer en systeemonderhoud.
+
+Ik kijk positief terug op deze stage omdat ik mezelf zowel technisch als persoonlijk verder heb ontwikkeld. Deze ervaring heeft mij meer vertrouwen gegeven in mijn vaardigheden binnen de IT-sector en heeft mij beter voorbereid op mijn verdere carrière.
+
 ## Reflectie WPL 4
