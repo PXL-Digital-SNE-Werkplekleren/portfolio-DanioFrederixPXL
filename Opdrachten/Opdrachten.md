@@ -83,13 +83,7 @@ Voor deze opdracht beschreef ik twee problemen die ik tijdens mijn stage heb mee
 Het eerste probleem ging over technische kennis en werken met onbekende systemen. 
 Het tweede probleem ging over communicatie met klanten tijdens stressvolle situaties.
 
-<center>
-  <object data="./probleemsituatie.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./probleemsituatie.pdf">
-      <p>Bijlage: <a href="./probleemsituatie.pdf">Download PDF</a>.</p>
-    </embed>
-  </object>
-</center>
+[Bekijk Probleemsituatie PDF](https://drive.google.com/file/d/1wysGbvZzqxNfaGoqAw7dhDhcQ3LN0bAi/view?usp=sharing)
 
 ## Probleem met advies
 Na de intervisie werkte ik mijn probleemsituatie verder uit met feedback, leerpunten en een actieplan. 
@@ -97,13 +91,7 @@ Ik leerde dat ik meer structuur moet brengen in mijn werk, sneller hulp moet vra
 
 Daarnaast maakte ik concrete acties om hier verder aan te werken tijdens mijn stage.
 
-<center>
-  <object data="./naverwerking.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./naverwerking.pdf">
-      <p>Bijlage: <a href="./naverwerking.pdf">Download PDF</a>.</p>
-    </embed>
-  </object>
-</center>
+[Bekijk Probleem met advies PDF](https://drive.google.com/file/d/1lSedMpayAj6arAzHyPiRHs2gRLK2XPPJ/view?usp=sharing)
 
 ## Werkkwaliteiten
 In deze opdracht werkte ik mijn kernkwaliteiten, uitdagingen en leerdoelen uit. 
@@ -112,13 +100,6 @@ Daarnaast stelde ik leerdoelen op rond communicatie, cybersecurity en planning.
 
 Ik beschreef ook welke oplossingen ik al geprobeerd had en hoe ik hiermee ben omgegaan.
 
-<center>
-  <object data="./werkkwaliteiten.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./werkkwaliteiten.pdf">
-      <p>Bijlage: <a href="./werkkwaliteiten.pdf">Download PDF</a>.</p>
-    </embed>
-  </object>
-</center>
-
+[Bekijk Werkkwaliteiten PDF](https://drive.google.com/file/d/1wKqwSUNT3_hfoO1kJwT_AqwWU5-PZeW8/view?usp=sharing)
 
 ## Opdrachten WPL 4
