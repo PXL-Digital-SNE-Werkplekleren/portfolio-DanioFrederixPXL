@@ -132,7 +132,11 @@ Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<b
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
-zie Opdrachten en Relfectie
+Tijdens mijn stage heb ik regelmatig ontwikkelingsgesprekken gehad met mijn stagebegeleider. Tijdens deze gesprekken werden mijn technische vaardigheden, werkhouding en samenwerking binnen het team besproken.
+
+Ik kreeg positieve feedback over mijn inzet, leergierigheid en communicatie met klanten en collega’s. Daarnaast werd aangegeven dat ik nog meer zelfstandig initiatief mocht nemen en vaker eerst zelf oplossingen moest proberen uitwerken voordat ik hulp vroeg. Hierdoor heb ik geleerd om zelfstandiger te werken en problemen grondiger te analyseren.
+
+De feedback uit deze gesprekken heeft mij geholpen om verder te groeien binnen een professionele IT-omgeving en meer vertrouwen te krijgen in mijn eigen technische vaardigheden.
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
