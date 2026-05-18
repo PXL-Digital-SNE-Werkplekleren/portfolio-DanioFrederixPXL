@@ -76,15 +76,7 @@ Voor deze opdracht moest ik een pitch maken over mijn stageplaats CoreSolutions.
 Ik stelde het bedrijf, mijn takenpakket en de uitdagingen tijdens mijn stage voor. 
 Ik vertelde onder andere over IT-support, cloudoplossingen, netwerkbeheer en klantencontact
 
-<center>
-  <iframe 
-    src="WPL3_Intervisie_Pitch_Frederix_Danio.pdf" 
-    width="700" 
-    height="700">
-  </iframe>
-</center>
-
-[Download PDF](WPL3_Intervisie_Pitch_Frederix_Danio.pdf)
+[📄 Bekijk Pitch PDF](./WPL3_Intervisie_Pitch_Frederix_Danio.pdf)
 
 ## Probleemsituatie
 Voor deze opdracht beschreef ik twee problemen die ik tijdens mijn stage heb meegemaakt. 
