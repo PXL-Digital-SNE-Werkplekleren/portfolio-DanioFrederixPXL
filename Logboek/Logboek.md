@@ -12,4 +12,6 @@ zie Opdrachten en Relfectie
 ![planningg.png](../images/planningg.png)
 ## Logboek WPL 3
 
+[Bekijk Stage Logboek](https://drive.google.com/file/d/15-4oTAj8p7YCE6DhxM0uBKZw_b2l7fyV/view?usp=sharing)
+
 ## Logboek WPL4
